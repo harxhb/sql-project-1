@@ -3,6 +3,8 @@
 ## Overview
 
 This project demonstrates how to take a large, messy mortgage dataset and transform it into a fully normalized relational database following database design principles. The project includes identifying functional dependencies, designing tables in 3rd Normal Form (3NF), cleaning data, and enforcing data integrity using SQL.
+
+
 Dataset can be accessed by downloading the existing mortgage data from https://www.consumerfinance.gov/data-research/hmda/historic-data/
 For this project we will want the following options:
 All records Includes applications, denials, originations, institution purchases
